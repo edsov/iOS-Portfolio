@@ -8,3 +8,11 @@ Edgar's portfolio.
 - SwiftUI 3
 - MVC
 ![My Image](FavMovies.png)
+
+## Appciona Oficial
+> Technologies
+- SwiftUI 3
+- MVVM
+- Firebase
+
+Video: https://youtu.be/ujJSzjiJhgk
