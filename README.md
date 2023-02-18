@@ -16,3 +16,14 @@ Edgar's portfolio.
 - Firebase
 
 Video: https://youtu.be/ujJSzjiJhgk
+
+## Appciona Oficial
+> Technologies
+- SwiftUI 3
+- MVVM
+- Firebase
+- Facebook API
+- Google API
+- Swift Package Manager
+
+Video: https://youtu.be/HuamEErUohY
