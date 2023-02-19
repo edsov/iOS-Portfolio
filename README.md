@@ -10,7 +10,7 @@ Edgar's portfolio.
 - Firebase
 
 Video: https://youtu.be/ujJSzjiJhgk
-![My Image](Appciona.png)
+![My Image](Images/Appciona.png)
 
 ## TMarket
 > Technologies
@@ -22,7 +22,7 @@ Video: https://youtu.be/ujJSzjiJhgk
 - Swift Package Manager
 
 Video: https://youtu.be/HuamEErUohY
-![My Image](TMarket.png)
+![My Image](Images/TMarket.png)
 
 ## RiderPath
 > Technologies
@@ -30,16 +30,16 @@ Video: https://youtu.be/HuamEErUohY
 - MVVM
 
 Video: https://youtu.be/iEOkN34OWDs
-![My Image](RiderPath.png)
+![My Image](Images/RiderPath.png)
 
 ## RealEstate App
 > Technologies
 - SwiftUI 3
 
-![My Image](RealEstate.png)
+![My Image](Images/RealEstate.png)
 
 ## FavMovies
 > Technologies
 - SwiftUI 3
 - MVC
-![My Image](FavMovies.png)
+![My Image](Images/FavMovies.png)
