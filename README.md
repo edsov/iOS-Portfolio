@@ -5,6 +5,15 @@ Edgar's portfolio.
 
 ## Appciona Oficial
 > Technologies
+- UIKit (iOS 13)
+- MVVM
+- API REST
+- Mapbox
+
+![My Image](Images/Spoke.png)
+
+## Appciona Oficial
+> Technologies
 - SwiftUI 3
 - MVVM
 - Firebase
